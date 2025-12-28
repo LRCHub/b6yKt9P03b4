@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Take It Back",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2025-12-28T03:18:37.988048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/01_Take_It_Back_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/02_Take_It_Back_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Take It Back",
+      "artist": "Feargal Sharkey",
+      "has_synced": false,
+      "path": "select/03_I'll_Take_It_Back_Feargal_Sharkey.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take It Back Home",
+      "artist": "Flor",
+      "has_synced": true,
+      "path": "select/04_Take_It_Back_Home_Flor.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "Blood Orange feat. Arca, JOBA & Justine Skye",
+      "has_synced": true,
+      "path": "select/05_Take_It_Back_Blood_Orange_feat._Arca,_JOBA_&_Justine_Skye.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take It Back (feat. Arca, Joba & Justine Skye",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/06_Take_It_Back_(feat._Arca,_Joba_&_Justine_Skye_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/07_Take_It_Back_Cream.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can't Take It Back",
+      "artist": "Winger",
+      "has_synced": true,
+      "path": "select/08_Can't_Take_It_Back_Winger.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/09_Take_It_Back_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let's Take It Back",
+      "artist": "J Dilla",
+      "has_synced": true,
+      "path": "select/10_Let's_Take_It_Back_J_Dilla.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/11_Take_It_Back_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "Toddla T",
+      "has_synced": false,
+      "path": "select/12_Take_It_Back_Toddla_T.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "Wishbone Ash",
+      "has_synced": true,
+      "path": "select/13_Take_It_Back_Wishbone_Ash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/14_Take_It_Back_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take It Back",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/15_Take_It_Back_Norah_Jones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take It Back",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Take_It_Back_Ed_Sheeran.txt"
+    }
+  ]
+}
